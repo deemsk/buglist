@@ -1,0 +1,24 @@
+{
+  "name": "nightjar",
+  "version": "1.0.0",
+  "description": "A web application for tracking bugs in app development",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "koa": "^1.1.2",
+    "webpack": "^1.12.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deemsk/nightjar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deemsk/nightjar/issues"
+  },
+  "homepage": "https://github.com/deemsk/nightjar#readme"
+}
