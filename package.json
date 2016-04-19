@@ -1,5 +1,5 @@
 {
-  "name": "nightjar",
+  "name": "buglist",
   "version": "1.0.0",
   "description": "A web application for tracking bugs in app development",
   "main": "index.js",
@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deemsk/nightjar.git"
+    "url": "git+https://github.com/deemsk/buglist.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/deemsk/nightjar/issues"
+    "url": "https://github.com/deemsk/buglist/issues"
   },
-  "homepage": "https://github.com/deemsk/nightjar#readme"
+  "homepage": "https://github.com/deemsk/buglist#readme"
 }
